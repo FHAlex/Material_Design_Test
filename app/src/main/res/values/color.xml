@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_grey">#424242</color>
+    <color name="light_grey">#bdbdbd</color>
+    <color name="red">#e51c23</color>
+    <color name="dark_red">#b0120a</color>
+
+
+    <color name="blue_grey">#607d8b</color>
+    <color name="shadow_blue">#039be5</color>
+    <color name="light_blue">#29b6f6</color>
+    <color name="blue">#01579b</color>
+    <color name="lime_500">#cddc39</color>
+    <color name="lime_600">#c0ca33</color>
+    
+</resources>
