@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends Activity
 {
+    // test 123456
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
